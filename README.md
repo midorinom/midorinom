@@ -1,16 +1,16 @@
 # <img src="/images/kirby_wave.gif" style="margin-top: 4rem;" alt="Kirby Waving" title="Kirby Waving"> Hi there!
 
-### <a href="google.com">Dreaming Forest</a> 🦋
+### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> <img src="/images/butterfly_logo.png"/>
 
-### BlossomzBot 🤖
+### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a>
 
-### Maplestory Tracker 🍄
+### <a href="https://github.com/midorinom/maplestory_tracker">Maplestory Tracker</a>
 
-### Dignity Careers
+### <a href="https://github.com/otwsia/Project-Dignity-Frontend">Dignity Careers</a>
 
-### LoL Player Searcher 🎮
+### <a href="https://github.com/midorinom/lol_player_searcher">LoL Player Searcher</a> 
 
-### Sword and Shield
+### <a href="https://github.com/midorinom/sword_and_shield">Sword and Shield</a>
 
 
 
