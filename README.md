@@ -1,4 +1,20 @@
-# Hi there! <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving"> 
+# <img src="/images/kirby_wave.gif" style="margin-top: 4rem;" alt="Kirby Waving" title="Kirby Waving"> Hi there!
+
+### <a href="google.com">Dreaming Forest</a> 🦋
+
+### BlossomzBot 🤖
+
+### Maplestory Tracker 🍄
+
+### Dignity Careers
+
+### LoL Player Searcher 🎮
+
+### Sword and Shield
+
+
+
+
 
 <!--
 **midorinom/midorinom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
