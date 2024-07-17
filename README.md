@@ -2,7 +2,7 @@
 
 ### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> <img src="/images/butterfly_logo.png"/>
 
-### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> 
+### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> <img src="/images/blossomz_bot.png"/>
 
 ### <a href="https://github.com/midorinom/maplestory_tracker">Maplestory Tracker</a>
 
