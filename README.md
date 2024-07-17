@@ -1,6 +1,10 @@
-# <img src="/images/kirby_wave.gif" style="margin-top: 4rem;" alt="Kirby Waving" title="Kirby Waving"> Hi there!
+# <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving"> Hi there!
 
 ### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> 🦋
+<div style="display:flex">
+<img src="/images/React.png" alt="React" title="React">
+<img src="/images/Typescript.png" alt="Typescript" title="Typescript">
+</div>
 
 ### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> 🤖
 
