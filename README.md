@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving">
+# Hi there! <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving"> 
 
 <!--
 **midorinom/midorinom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
