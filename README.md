@@ -5,13 +5,15 @@
 <img src="/images/Typescript.png" alt="Typescript" title="Typescript">
 <img src="/images/React.png" alt="React" title="React">
 <img src="/images/Next.png" alt="NextJS" title="NextJS">
+<img src="/images/Tailwind.png" alt="TailwindCSS" title="TailwindCSS">
+<img src="/images/DaisyUI.png" alt="DaisyUI" title="DaisyUI">
 </div>
 
 <div style="display:flex">
 <img src="/images/Drizzle.png" alt="Drizzle" title="Drizzle">
 <img src="/images/Vercel.png" alt="Vercel" title="Vercel">
-<img src="/images/Vercel Postgres.png" alt="Vercel Postgres" title="Vercel Postgres">
-<img src="/images/Vercel Blob.png" alt="Vercel Blob" title="Vercel Blob">
+<img src="/images/Vercel_Postgres.png" alt="Vercel Postgres" title="Vercel Postgres">
+<img src="/images/Vercel_Blob.png" alt="Vercel Blob" title="Vercel Blob">
 </div>
 
 ### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> 🤖
