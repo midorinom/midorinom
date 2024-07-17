@@ -17,6 +17,21 @@
 </div>
 
 ### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> 🤖
+<div style="display:flex">
+<img src="/images/Python.png" alt="Python" title="Python">
+<img src="/images/Interactions.py.png" alt="Interactions.py" title="Interactions.py">
+<img src="/images/Discord Dev.png" alt="Discord Dev" title="Discord Dev">
+<img src="/images/MySQL.png" alt="MySQL" title="MySQL">
+<img src="/images/GitHub Actions.png" alt="GitHub Actions" title="GitHub Actions">
+</div>
+
+<div style="display:flex">
+<img src="/images/AWS EC2.png" alt="AWS EC2" title="AWS EC2">
+<img src="/images/AWS RDS.png" alt="AWS RDS" title="AWS RDS">
+<img src="/images/Google Sheets.png" alt="Google Sheets" title="Google Sheets">
+<img src="/images/Apps Script.png" alt="Apps Script" title="Apps Script">
+<img src="/images/SheetDB.png" alt="SheetDB" title="SheetDB">
+</div>
 
 ### <a href="https://github.com/midorinom/maplestory_tracker">Maplestory Tracker</a> 🍄
 
