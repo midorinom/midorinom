@@ -71,6 +71,7 @@
 <img src="/images/Javascript.png" alt="Javascript" title="Javascript">
 <img src="/images/React.png" alt="React" title="React">
 <img src="/images/Riot Games API.png" alt="Riot Games API" title="Riot Games API">
+<img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
 
 ### <a href="https://github.com/midorinom/sword_and_shield">Sword and Shield</a> ⚔🛡
@@ -78,6 +79,7 @@
 <img src="/images/Javascript.png" alt="Javascript" title="Javascript">
 <img src="/images/HTML.png" alt="HTML" title="HTML">
 <img src="/images/CSS.png" alt="CSS" title="CSS">
+<img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
 
 
