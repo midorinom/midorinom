@@ -33,7 +33,7 @@ A remastered version of my previous project Maplestory Tracker. It is still a wo
 <img src="/images/SheetDB.png" alt="SheetDB" title="SheetDB">
 <img src="/images/GitHub Actions.png" alt="GitHub Actions" title="GitHub Actions">
 </div>
-A bot created for Discord, a social platform for messaging and making calls. In particular, BlossomzBot is created for a discord server (Blossomz) that I am a part of, which is a community within the online multiplayer game, Lost Ark. This bot is to be used by the admins of the Blossomz discord server, to make the process of carrying out various server and ingame administrative matters much easier and automated.
+A bot created for Discord, a social platform for messaging and making calls. In particular, BlossomzBot is created for a discord server (Blossomz) that I am a part of, which is a community within the online multiplayer game, Lost Ark. This bot is to be used by the admins of the Blossomz discord server, to make the process of carrying out various server and in-game administrative matters much easier and automated.
 
 ### <a href="https://github.com/midorinom/maplestory_tracker">Maplestory Tracker</a> 🍄
 <div style="display:flex">
