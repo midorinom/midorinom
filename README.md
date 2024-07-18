@@ -35,7 +35,7 @@
 
 ### <a href="https://github.com/midorinom/maplestory_tracker">Maplestory Tracker</a> 🍄
 
-### <a href="https://github.com/otwsia/Project-Dignity-Frontend">Dignity Careers</a> 👷
+### <a href="https://github.com/midorinom/Project-Dignity">Dignity Careers</a> 👷
 
 ### <a href="https://github.com/midorinom/lol_player_searcher">LoL Player Searcher</a> 🔎
 
