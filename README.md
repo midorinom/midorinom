@@ -66,14 +66,6 @@
 <img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
 
-### <a href="https://github.com/midorinom/lol_player_searcher">LoL Player Searcher</a> 🔎
-<div style="display:flex">
-<img src="/images/Javascript.png" alt="Javascript" title="Javascript">
-<img src="/images/React.png" alt="React" title="React">
-<img src="/images/Riot Games API.png" alt="Riot Games API" title="Riot Games API">
-<img src="/images/Vercel.png" alt="Vercel" title="Vercel">
-</div>
-
 ### <a href="https://github.com/midorinom/sword_and_shield">Sword and Shield</a> ⚔🛡
 <div style="display:flex">
 <img src="/images/Javascript.png" alt="Javascript" title="Javascript">
@@ -82,6 +74,13 @@
 <img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
 
+### <a href="https://github.com/midorinom/lol_player_searcher">LoL Player Searcher</a> 🔎
+<div style="display:flex">
+<img src="/images/Javascript.png" alt="Javascript" title="Javascript">
+<img src="/images/React.png" alt="React" title="React">
+<img src="/images/Riot Games API.png" alt="Riot Games API" title="Riot Games API">
+<img src="/images/Vercel.png" alt="Vercel" title="Vercel">
+</div>
 
 
 
