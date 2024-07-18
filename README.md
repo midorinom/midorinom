@@ -16,7 +16,7 @@
 <img src="/images/Vercel_Blob.png" alt="Vercel Blob" title="Vercel Blob">
 </div>
 
-### <a href="https://github.com/midorinom/blossomzBot">BlossomzBot</a> 🤖
+### <a href="https://github.com/midorinom/BlossomzBot">BlossomzBot</a> 🤖
 <div style="display:flex">
 <img src="/images/Python.png" alt="Python" title="Python">
 <img src="/images/Interactions.py.png" alt="Interactions.py" title="Interactions.py">
