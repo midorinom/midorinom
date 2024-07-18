@@ -1,6 +1,6 @@
 # <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving"> Hi there!
 
-### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> 🦋
+### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> (in progress) 🦋
 <div style="display:flex">
 <img src="/images/Typescript.png" alt="Typescript" title="Typescript">
 <img src="/images/Next.png" alt="NextJS" title="NextJS">
