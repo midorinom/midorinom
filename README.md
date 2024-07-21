@@ -47,6 +47,7 @@ A bot created for Discord, a social platform for messaging and making calls. In 
 
 <div style="display:flex">
 <img src="/images/Python.png" alt="Python" title="Python">
+<img src="/images/Flask.png" alt="Flask" title="Flask">
 <img src="/images/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL">
 <img src="/images/Marshmallow.png" alt="Marshmallow" title="Marshmallow">
 <img src="/images/SQLAlchemy.png" alt="SQLAlchemy" title="SQLAlchemy">
@@ -86,7 +87,7 @@ A browser game created with vanilla Javascript, HTML and CSS. It is a real-time,
 <img src="/images/Riot Games API.png" alt="Riot Games API" title="Riot Games API">
 <img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
-A search app built using React, Javascript and Riot Games API. The app allows the user to search for any League of Legends player, then displays the player's match history and stats from recent matches.
+A search website built using React, Javascript and Riot Games API. The site allows the user to search for any League of Legends player, then displays the player's match history and stats from recent matches.
 
 
 
