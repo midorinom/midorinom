@@ -52,7 +52,7 @@ A bot created for Discord, a social platform for messaging and making calls. In 
 <img src="/images/SQLAlchemy.png" alt="SQLAlchemy" title="SQLAlchemy">
 <img src="/images/Psycopg.png" alt="Psycopg" title="Psycopg">
 </div>
-An organiser app to help Maplestory players keep track of various information across all their characters, such as dailies/weeklies, weekly bosses, gear progression, events and more.
+An organiser website to help Maplestory players keep track of various information across all their characters, such as dailies/weeklies, weekly bosses, gear progression, events and more.
 
 ### <a href="https://github.com/midorinom/Project-Dignity">Dignity Careers</a> 👷
 <div style="display:flex">
