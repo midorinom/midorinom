@@ -15,7 +15,7 @@
 <img src="/images/Vercel_Postgres.png" alt="Vercel Postgres" title="Vercel Postgres">
 <img src="/images/Vercel_Blob.png" alt="Vercel Blob" title="Vercel Blob">
 </div>
-A remastered version of my previous project Maplestory Tracker. It is still a work in progress.
+Still a work in progress. It is a remastered version of my previous project, Maplestory Tracker. The aim is to make big improvements all around in performance, scalability, serch engine optimisation (SEO), user experience, aesthetics and design, as well as a more organised and maintainable codebase.
 
 ### <a href="https://github.com/midorinom/BlossomzBot">BlossomzBot</a> 🤖
 <div style="display:flex">
@@ -68,7 +68,7 @@ An organiser website to help Maplestory players keep track of various informatio
 <img src="/images/Mongoose.png" alt="Mongoose" title="Mongoose">
 <img src="/images/Vercel.png" alt="Vercel" title="Vercel">
 </div>
-A job portal website catering to differently-abled job seekers and open-minded employers, built using React, Javascript, Node, Express, MongoDB and Bootstrap. The project was developed by a group of 4 and in collaboration with UX Design students. Users can search and filter job listings, create profiles, save and apply for jobs (job seekers), post jobs and view applications (employers).
+A job portal website catering to differently-abled job seekers and open-minded employers. The project was developed by a group of 4 and in collaboration with UI/UX Design students. Users can search and filter job listings, create profiles, save and apply for jobs (job seekers), post jobs and view applications (employers).
 
 ### <a href="https://github.com/midorinom/sword_and_shield">Sword and Shield</a> ⚔🛡
 <div style="display:flex">
