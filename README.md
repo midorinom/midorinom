@@ -1,6 +1,6 @@
 # <img src="/images/kirby_wave.gif" alt="Kirby Waving" title="Kirby Waving"> Hi there!
 
-### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> (in progress) 🦋
+### <a href="https://github.com/midorinom/Dreaming-Forest">Dreaming Forest</a> 🦋
 <div style="display:flex">
 <img src="/images/Typescript.png" alt="Typescript" title="Typescript">
 <img src="/images/Next.png" alt="NextJS" title="NextJS">
@@ -15,7 +15,7 @@
 <img src="/images/Vercel_Postgres.png" alt="Vercel Postgres" title="Vercel Postgres">
 <img src="/images/Vercel_Blob.png" alt="Vercel Blob" title="Vercel Blob">
 </div>
-Still a work in progress. It is a remastered version of my previous project, Maplestory Tracker. The aim is to make big improvements all around in performance, scalability, serch engine optimisation (SEO), user experience, aesthetics and design, as well as a more organised and maintainable codebase.
+A remastered version of my previous project, Maplestory Tracker. The aim is to make big improvements all around in performance, scalability, serch engine optimisation (SEO), user experience, aesthetics and design, as well as a more organised and maintainable codebase.
 
 ### <a href="https://github.com/midorinom/BlossomzBot">BlossomzBot</a> 🤖
 <div style="display:flex">
